@@ -1,0 +1,6 @@
+0 stratocaster
+1 telecaster
+2 sg guitar
+3 hollow body
+4 semi hollow body
+5 les paul
